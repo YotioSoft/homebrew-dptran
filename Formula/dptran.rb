@@ -1,4 +1,4 @@
-class dptran < Formula
+class Dptran < Formula
   desc "A tool to run DeepL translations on command line."
   homepage "https://github.com/YotioSoft/dptran.git"
   url "https://github.com/YotioSoft/dptran/releases/download/ver.0.1.0/dptran-macos-arm64-ver.0.1.0.tar.gz"
