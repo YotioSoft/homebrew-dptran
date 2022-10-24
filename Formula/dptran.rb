@@ -5,7 +5,7 @@ class Dptran < Formula
   desc "A tool to run DeepL translations on command line (for my Rust studies)."
   homepage ""
   url "https://github.com/YotioSoft/dptran/archive/refs/tags/ver.0.1.0.tar.gz"
-  sha256 "eb5d154e0b2c76b1542647d21e3802653c8715bdae82f1a847ae9a1d7010afdd"
+  sha256 "cdf62ea9a79078721a61d1b421ed69a94edab526fb7e7354b2c25747a639be62"
   license ""
 
   depends_on "rust" => :build
